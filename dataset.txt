@@ -1,0 +1,3 @@
+// This is the link of kaggle dataset that is being used in the project
+
+https://www.kaggle.com/datasets/prithvijaunjale/instagram-images-with-captions/data
