@@ -50,6 +50,8 @@ Dataset source:
 
 For evaluation BLEU score was used with average value around 0.5, which is good.
 
+---
+
 ## 🔮 Future Work
 - Use Transformer-based captioning models 
 - Integrate Instagram API for real-time captioning
